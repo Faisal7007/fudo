@@ -1,0 +1,14 @@
+
+
+.video_card{
+    width: 250px;
+}
+
+.video_card img{
+    height: 120px;
+}
+
+.video_info{
+    color: gray;
+    /* line-height: 12px; */
+}
